@@ -1,10 +1,8 @@
-Sure, I'll add a section about the Gradient Boosting algorithm used in the project.
-
----
-
 # Melatonin Products Sentiment Analysis Project 🎉🧪
 
 ![Project Badge](https://img.shields.io/badge/Project-Melatonin%20Sentiment%20Analysis-brightgreen)
+
+
 
 ## Overview 📝
 
@@ -191,9 +189,5 @@ print("Classification Report :\n", classification_report(B_test, B_pred_gb))
     - scikit-learn
     - Matplotlib
     - Seaborn
+![image](https://github.com/user-attachments/assets/0a6358e0-047b-4a34-adc8-7082067f7cfd)
 
----
-
-Feel free to customize this README section further according to your project's specifics and preferences!
-
----
