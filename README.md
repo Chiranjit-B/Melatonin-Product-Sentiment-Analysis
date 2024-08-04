@@ -1,8 +1,13 @@
+
 # Melatonin Products Sentiment Analysis Project 🎉🧪
 
 ![Project Badge](https://img.shields.io/badge/Project-Melatonin%20Sentiment%20Analysis-brightgreen)
-
-
+![EDA Badge](https://img.shields.io/badge/Exploratory%20Data%20Analysis-blue)
+![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-brightgreen)
+![NLP Badge](https://img.shields.io/badge/Natural%20Language%20Processing-orange)
+![Sentiment Analysis Badge](https://img.shields.io/badge/Sentiment%20Analysis-TextBlob-lightgrey)
+![Vectorization Badge](https://img.shields.io/badge/Vectorization-TF--IDF-yellowgreen)
+![Healthcare Data Badge](https://img.shields.io/badge/Data-Healthcare%20Data-red)
 
 ## Overview 📝
 
